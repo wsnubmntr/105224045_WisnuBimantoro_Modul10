@@ -36,7 +36,7 @@ public class BioskopCLI {
        
 
         prosesPemesanan(
-                "Bagas",
+                "Iqbal ajah",
                 "F01",
                 "A1",
                 daftarFilm,
@@ -54,7 +54,7 @@ public class BioskopCLI {
         );
 
         prosesPemesanan(
-                "Pandi",
+                "Bambang",
                 "F01",
                 "A1",
                 daftarFilm,
